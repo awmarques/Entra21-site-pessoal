@@ -13,6 +13,8 @@ Esse projeto foi criado utilizando as tecnologias:
 
 [CSS](https://www.w3schools.com/css/default.asp)
 
+[GIT](https://www.w3schools.com/git/default.asp)
+
 [JavaScript](https://www.w3schools.com/js/default.asp)
 
 ---
@@ -28,5 +30,5 @@ Esse projeto foi criado utilizando as tecnologias:
 ## 🔮 Funcionalidades Futuras
 - [x] HTML com a estrutura da Landing Page
 - [ ] Estilização com CSS
-- [ ] dinamização com JavaScript
+- [ ] Dinamização com JavaScript
 ---
