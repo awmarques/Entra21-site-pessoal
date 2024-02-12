@@ -1,5 +1,5 @@
 # Entra21-site-pessoal
-Repositório criado com objetivo de treinar uma parte as habilidades aprendidas no Entra21 2024.
+Repositório criado com objetivo de treinar uma parte das habilidades aprendidas no Entra21 2023 EAD.
 
 :rocket: Descrição
 O Programa Entra21 é administrado pela Blusoft-Acate e financiado pelo governo do Estado através da FAPESC, pela Prefeitura de Blumenau e por empresas parceiras. 
